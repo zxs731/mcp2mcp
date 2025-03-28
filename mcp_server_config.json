@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "mcp_server_kb": {
+      "command": "python",
+      "args": [
+        "/Users/tylerzhao/demp/MCP/client/music_player_server.py"
+      ]
+    },
+    "music_player_server": {
+      "command": "python",
+      "args": [
+        "/Users/tylerzhao/demp/MCP/client/music_player_server.py"
+      ]
+    }
+  }
+}
